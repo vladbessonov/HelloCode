@@ -1,0 +1,15 @@
+E:\GB\3_Znakomstvo_C#\Leksion\Leksion_1\L1\proekt1_novConsole\bin\Debug\net6.0\proekt1_novConsole.exe
+E:\GB\3_Znakomstvo_C#\Leksion\Leksion_1\L1\proekt1_novConsole\bin\Debug\net6.0\proekt1_novConsole.deps.json
+E:\GB\3_Znakomstvo_C#\Leksion\Leksion_1\L1\proekt1_novConsole\bin\Debug\net6.0\proekt1_novConsole.runtimeconfig.json
+E:\GB\3_Znakomstvo_C#\Leksion\Leksion_1\L1\proekt1_novConsole\bin\Debug\net6.0\proekt1_novConsole.dll
+E:\GB\3_Znakomstvo_C#\Leksion\Leksion_1\L1\proekt1_novConsole\bin\Debug\net6.0\proekt1_novConsole.pdb
+E:\GB\3_Znakomstvo_C#\Leksion\Leksion_1\L1\proekt1_novConsole\obj\Debug\net6.0\proekt1_novConsole.csproj.AssemblyReference.cache
+E:\GB\3_Znakomstvo_C#\Leksion\Leksion_1\L1\proekt1_novConsole\obj\Debug\net6.0\proekt1_novConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB\3_Znakomstvo_C#\Leksion\Leksion_1\L1\proekt1_novConsole\obj\Debug\net6.0\proekt1_novConsole.AssemblyInfoInputs.cache
+E:\GB\3_Znakomstvo_C#\Leksion\Leksion_1\L1\proekt1_novConsole\obj\Debug\net6.0\proekt1_novConsole.AssemblyInfo.cs
+E:\GB\3_Znakomstvo_C#\Leksion\Leksion_1\L1\proekt1_novConsole\obj\Debug\net6.0\proekt1_novConsole.csproj.CoreCompileInputs.cache
+E:\GB\3_Znakomstvo_C#\Leksion\Leksion_1\L1\proekt1_novConsole\obj\Debug\net6.0\proekt1_novConsole.dll
+E:\GB\3_Znakomstvo_C#\Leksion\Leksion_1\L1\proekt1_novConsole\obj\Debug\net6.0\refint\proekt1_novConsole.dll
+E:\GB\3_Znakomstvo_C#\Leksion\Leksion_1\L1\proekt1_novConsole\obj\Debug\net6.0\proekt1_novConsole.pdb
+E:\GB\3_Znakomstvo_C#\Leksion\Leksion_1\L1\proekt1_novConsole\obj\Debug\net6.0\proekt1_novConsole.genruntimeconfig.cache
+E:\GB\3_Znakomstvo_C#\Leksion\Leksion_1\L1\proekt1_novConsole\obj\Debug\net6.0\ref\proekt1_novConsole.dll
